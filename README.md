@@ -5,4 +5,4 @@ Se espera de este poryecot:
 - Limpieza de datos.
 - Visualización.
 
-Se epsra entregar las aplicaicones prácticas del dataset.
+Se espera entregar las aplicaicones prácticas del dataset.
